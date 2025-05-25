@@ -33,7 +33,9 @@
 
 - 🌐 Open Source Contributor at Social Summer of Code 2025
 
-- 📍 I live in **Maharashtra, India!**  
+- 📍 I live in **Maharashtra, India!**
+
+- 💡 **Looking for a Front-end Developer internship opportunity!**
 
 
 <!-- Skills section using badges -->
@@ -67,7 +69,19 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+<!-- ============================== -->
+<!-- 📈 GitHub Activity Graph -->
+<!-- ============================== -->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichetule09&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
+<!-- ============================== -->
+<!-- 🐍 GitHub Snake Animation -->
+<!-- ============================== -->
+<div align="center">
+    <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
+</div>
 
 <!-- GitHub Stats Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
