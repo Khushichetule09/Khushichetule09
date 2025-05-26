@@ -76,7 +76,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichetule09&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<!-- ============================== -->
+<!---============================== -->
 <!-- 🐍 GitHub Snake Animation -->
 <!-- ============================== -->
 <div align="center">
