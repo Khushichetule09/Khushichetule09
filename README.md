@@ -1,24 +1,27 @@
 <!-- Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2400&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=150&lines=Hi%2C+I'm+Khushi+Chetule!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2400&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Khushi+Chetule!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 </br>
 
-<!-- Social media links (HackerRank, LinkedIn, Twitter, Portfolio) -->
+<!-- Professional Social Media Links in Pink Tone with Official Logos and Light Labels -->
 <p align="center">
-   
   <a href="https://www.linkedin.com/in/khushi-chetule-761b50328/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-     <a href="https://www.hackerrank.com/khushichetule09">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-    <a href="https://x.com/khushi_chetule">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-@khushichetule-white?style=flat&logo=linkedin&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
+  </a>
+  <a href="https://www.instagram.com/_.khushichetule._/">
+    <img src="https://img.shields.io/badge/Instagram-@_.khushichetule._-white?style=flat&logo=instagram&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
+  </a>
+  <a href="https://imkhushi.in">
+    <img src="https://img.shields.io/badge/Portfolio-imkhushi.in-white?style=flat&logo=google-chrome&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
+  </a>
 </p>
+
+
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 <!-- About Me section with animated GIF and short description -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About me
