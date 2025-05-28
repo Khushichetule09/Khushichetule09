@@ -6,22 +6,12 @@
 </div>
 </br>
 
-<!-- Professional Social Media Links in Pink Tone with Official Logos and Light Labels -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-chetule-761b50328/">
-    <img src="https://img.shields.io/badge/LinkedIn-@khushichetule-white?style=flat&logo=linkedin&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
-  </a>
-  <a href="https://www.instagram.com/_.khushichetule._/">
-    <img src="https://img.shields.io/badge/Instagram-@_.khushichetule._-white?style=flat&logo=instagram&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
-  </a>
-  <a href="https://imkhushi.in">
-    <img src="https://img.shields.io/badge/Portfolio-imkhushi.in-white?style=flat&logo=google-chrome&logoColor=ff69b4&labelColor=ffffff&color=ff69b4" />
-  </a>
-</p>
-
-
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e75480?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-chetule-761b50328/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e75480?logo=netlify&logoColor=white)](https://imkhushi.in)
+
 
 <!-- About Me section with animated GIF and short description -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About me
@@ -77,13 +67,6 @@
 <!-- ============================== -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichetule09&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<!---============================== -->
-<!-- 🐍 GitHub Snake Animation -->
-<!-- ============================== -->
-<div align="center">
-    <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <!-- GitHub Stats Section -->
