@@ -59,13 +59,10 @@
 <br/>
 
 <!-- 💖 GitHub Stats -->
-<details closed>
+<details open>
 <summary><b>⚡ My GitHub Performance</b></summary>
 <br/>
 
-<!-- 💛 General stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=khushichetule09&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
 <!-- 💜 GitHub streak stats -->
 <img src="https://streak-stats.demolab.com/?user=khushichetule09&theme=gotham&hide_border=false" width="450" />
 <br/>
