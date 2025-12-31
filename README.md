@@ -70,8 +70,7 @@
 
 </details>
 
-
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushichetule09&label=Visitors&color=181717&style=flat" /> </p>
 
 <!-- 💖 Contact -->
 ### You can reach me at: **<khushichetule2@gmail.com>**
