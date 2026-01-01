@@ -72,5 +72,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushichetule09&label=Visitors&color=181717&style=flat" /> </p>
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+<br>
+
 <!-- 💖 Contact -->
 ### You can reach me at: **<khushichetule2@gmail.com>**
