@@ -29,12 +29,6 @@
 <summary><b>Skills & Tools</b></summary>
 <br>
 
-<!-- GenAI & Agentic AI -->
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![AI Agents](https://img.shields.io/badge/AI_Agents-F97316?style=for-the-badge&logo=robotframework&logoColor=white)&nbsp;
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
 <!-- Frontend -->
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
