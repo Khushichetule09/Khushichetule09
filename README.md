@@ -33,7 +33,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
