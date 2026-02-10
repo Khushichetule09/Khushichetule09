@@ -27,12 +27,10 @@
 <summary><b>Skills & Tools</b></summary>
 <br>
 
-<!-- GenAI & Agentic AI (unchanged) -->
+<!-- GenAI & Agentic AI -->
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
 ![AI Agents](https://img.shields.io/badge/AI_Agents-F97316?style=for-the-badge&logo=robotframework&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 <!-- Frontend -->
@@ -56,19 +54,19 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Vector_DB](https://img.shields.io/badge/Vector_DB-8B5CF6?style=for-the-badge&logo=milvus&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 <!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 </details>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushichetule09&label=Visitors&color=181717&style=flat" /> </p>
 
